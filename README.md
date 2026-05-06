@@ -15,12 +15,12 @@ Ubuntu has been my primary environment since my early teens. I'm drawn to open s
 
 | Project | Stack | Live |
 |---|---|---|
-| [**cloud-image-diff**](https://github.com/iv-ivple/cloud-image-diff) — CLI tool that fetches Ubuntu cloud image metadata from AWS, Azure, and GCP and compares them side by side; reports images missing on one provider and highlights differences in kernel version or build date across regions | Go · Cobra · errgroup · AWS EC2 SDK · Azure Compute SDK · GCP Compute API | — |
+| [**cloud-image-diff**](https://github.com/iv-ivple/cloud-image-diff) — CLI tool that fetches Ubuntu cloud image metadata from AWS, Azure, and GCP and compares them side by side; reports images missing on one provider and highlights differences in kernel version or build date across regions; uses concurrent SDK calls via `errgroup` and integrates the AWS EC2 SDK, Azure Compute SDK, and GCP Compute API | Go · Cobra · errgroup · AWS EC2 SDK · Azure Compute SDK · GCP Compute API | — |
 | [**Wallet Watcher API**](https://github.com/iv-ivple/wallet-watcher-api) — Ethereum wallet monitoring REST API with analytics endpoints, Redis caching, PostgreSQL, background workers | Python · Flask · Redis · PostgreSQL · Docker | [↗](https://wallet-watcher-api-1.onrender.com) |
 | [**DEX Monitor**](https://github.com/iv-ivple/dex-monitor) — Real-time decentralised exchange price aggregator across multiple DEXs, with spread detection and arbitrage opportunity identification | Python · Flask · web3.py · Redis | [↗](https://dex-monitor-b6kj.onrender.com) |
 | [**Web3 Telegram Bot**](https://github.com/iv-ivple/web3-telegram-bot) — Blockchain analytics bot: wallet tracking, token analytics with auto-generated charts, GraphQL via The Graph, hybrid RPC/Subgraph data fetching | Python · web3.py · matplotlib · The Graph | — |
 | [**PDF Label Extractor**](https://github.com/iv-ivple/pdf-label-extractor) — Production automation tool that extracts label and object counts from engineering drawings to automate procurement quantity take-offs; deployed and used daily by non-technical colleagues at MultiCAD | Python · Flask · pdfplumber | [↗](https://pdf-label-extractor.onrender.com) |
-| [**Ethereum Dev Lab**](https://github.com/iv-ivple/ethereum-dev-lab) — 24-week documented learning journey from RPC basics through wallets, ERC-20, event indexing, SQL, testing, and production APIs | Python · web3.py · pytest · SQLAlchemy | — |
+| [**Ethereum Dev Lab**](https://github.com/iv-ivple/ethereum-dev-lab) — 40-week documented learning journey from RPC basics through wallets, ERC-20, event indexing, SQL, testing, and production APIs; recent weeks cover async keeper bots, gas oracles, and an Aave V3 liquidation watcher with PostgreSQL persistence, APScheduler polling, and Discord webhook alerting | Python · web3.py · asyncio · pytest · SQLAlchemy · asyncpg · APScheduler | — |
 
 ---
 

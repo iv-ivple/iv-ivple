@@ -1,7 +1,7 @@
 # Ivana Plechacova
 
 **Technical Product & Project Manager · Agentic / Python Developer**  
-London, UK &nbsp;·&nbsp; [plechacova@pm.me](mailto:ivple@pm.me) &nbsp;·&nbsp; [ivple.com](https://ivple.com)
+London, UK &nbsp;·&nbsp; [ivple@pm.me](mailto:ivple@pm.me) &nbsp;·&nbsp; [ivple.com](https://ivple.com)
 
 ---
 

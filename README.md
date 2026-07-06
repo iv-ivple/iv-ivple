@@ -39,7 +39,7 @@ Languages    Python (primary) · Go · SQL · JavaScript
 Backend      Flask · SQLAlchemy · REST APIs · web3.py · Cobra
 Data         PostgreSQL · Redis · SQLite · pandas
 Infra        Docker · Coolify · Cloudflare Tunnel · Tailscale · Raspberry Pi 5 · Render · Linux · GitHub Actions
-AI/Agentic   Claude Code · Cursor · Ollama · local LLM inference
+AI/Agentic   Claude Code · Cursor · Hermes (NousResearch) · Ollama · local LLM inference
 Tools        Git · pytest · Jira · Confluence
 Learning     Kubernetes · agentic AI tooling · local LLM inference
 ```
@@ -58,6 +58,7 @@ My Python systems, Web3 integrations, and DevOps practices were all self-taught 
 
 ## Currently
 
+- 🚀 Building a **stealth SaaS product** — full-stack, solo, MVP shipping July
 - 📚 Building in **Go** — interfaces, goroutines, multi-cloud SDK integrations
 - 🔐 Working towards **CompTIA Security+**
 - 🤖 Deepening **agentic AI and local LLM tooling** — Claude Code, Ollama, agent workflows
